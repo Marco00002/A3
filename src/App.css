@@ -1,0 +1,12 @@
+/* src/App.css */
+
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+.app-container {
+  background-color: #e41358; /* rosa claro */
+  min-height: 100vh;
+  padding-bottom: 2rem; /* evita cortar conteúdo no final */
+}
